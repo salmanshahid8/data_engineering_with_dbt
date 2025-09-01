@@ -1,5 +1,4 @@
-import duckdb 
-import pandas as pd
+import duckdb
 
 sql_query = '''show tables'''
 
